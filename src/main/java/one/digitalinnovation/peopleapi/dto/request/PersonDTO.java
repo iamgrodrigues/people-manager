@@ -4,13 +4,11 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import one.digitalinnovation.peopleapi.entity.Phone;
 import org.hibernate.validator.constraints.br.CPF;
 
 import javax.validation.Valid;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Size;
-import java.time.LocalDate;
 import java.util.List;
 
 @Data
@@ -33,9 +31,9 @@ public class PersonDTO {
     @CPF
     private String cpf;
 
-    private LocalDate birthDate;
+    private String birthDate;
 
     @Valid
     @NotEmpty
-    private List<Phone> phones;
+    private List<PhoneDTO> phones;
 }
