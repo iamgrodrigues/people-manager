@@ -53,7 +53,7 @@ Create -> ```/api/v1/people```
   }
 ]
 ```
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=PeopleManagerAPI%20API&uri=https%3A%2F%2Fgithub.com%2Fiamgrodrigues%2Fpeoplemanager-api%2Fblob%2Fmaster%2F.github%2Fdocs%2PeopleManager-API.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=PeopleManagerAPI%20API&uri=https%3A%2F%2Fgithub.com%2Fiamgrodrigues%2Fpeoplemanager-api%2Fblob%2Fmaster%2F.github%2Fdocs/PeopleManager-API)
 # Requirements
 
 For building and running the application you need:
