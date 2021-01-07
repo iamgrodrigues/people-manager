@@ -16,7 +16,7 @@
 # :pushpin: Table of Contents
 
 * [Features](#rocket-features)
-* [Requirements](#rocket-requirements)
+* [Requirements](#requirements)
 * [Installation](#construction_worker-installation)
 * [Getting Started](#runner-getting-started)
 * [FAQ](#postbox-faq)
