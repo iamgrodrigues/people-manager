@@ -1,1 +1,1 @@
-# People Manager API REST
+# People Manager API REST.
