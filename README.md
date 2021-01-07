@@ -118,6 +118,6 @@ Check out the [contributing](https://github.com/iamgrodrigues/peoplemanager-api/
 # :closed_book: License
 
 Released in 2021.
-This project is under the [MIT license](https://github.com/iamgrodrigues/peoplemanager-api/master/LICENSE).
+This project is under the [MIT license](https://github.com/iamgrodrigues/peoplemanager-api/blob/master/LICENSE).
 
 Made with love by [Guilherme Rodrigues](https://github.com/iamgrodrigues) 💚🚀
