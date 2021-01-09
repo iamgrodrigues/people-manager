@@ -65,11 +65,15 @@ For building and running the application you need:
 
 To install this application, run the following commands:
 
-```git clone https://github.com/iamgrodrigues/peoplemanager-api.git```
+```bash
+git clone https://github.com/iamgrodrigues/peoplemanager-api.git
+```
 
 If you have a SSH key registered in your Github account, clone the project using this command:
 
-```git clone git@github.com:iamgrodrigues/peoplemanager-api.git```
+```bash
+git clone git@github.com:iamgrodrigues/peoplemanager-api.git
+```
 
 # :runner: Getting Started
 
@@ -82,7 +86,7 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 ```shell
 mvn spring-boot:run
 ```
-Afeter the above command, you can navigate to following address to see the project up and runnig:
+Afeter the above command, you can navigate to the following address to see the project up and runnig:
 
 ```shell
 http://localhost:8080/api/v1/people
