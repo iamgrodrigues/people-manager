@@ -1,10 +1,10 @@
 # PeopleManager API
 
-[![Author](https://img.shields.io/badge/author-GuilhermeRodrigues-11BC83?style=flat-square)](https://github.com/iamgrodrigues)
-[![Languages](https://img.shields.io/github/languages/count/iamgrodrigues/peoplemanager-api?color=11BC83&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/iamgrodrigues/peoplemanager-api?color=11BC83&style=flat-square)](https://github.com/iamgrodrigues/peoplemanager-api/stargazers)
-[![Forks](https://img.shields.io/github/forks/iamgrodrigues/peoplemanager-api?color=11BC83&style=flat-square)](https://github.com/iamgrodrigues/peoplemanager-api/network/members)
-[![Contributors](https://img.shields.io/github/contributors/iamgrodrigues/peoplemanager-api?color=11BC83&style=flat-square)](https://github.com/iamgrodrigues/peoplemanager-api/graphs/contributors)
+[![Author](https://img.shields.io/badge/author-GuilhermeRodrigues-6e40c9?style=flat-square)](https://github.com/iamgrodrigues)
+[![Languages](https://img.shields.io/github/languages/count/iamgrodrigues/peoplemanager-api?color=6e40c9&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iamgrodrigues/peoplemanager-api?color=6e40c9&style=flat-square)](https://github.com/iamgrodrigues/peoplemanager-api/stargazers)
+[![Forks](https://img.shields.io/github/forks/iamgrodrigues/peoplemanager-api?color=6e40c9&style=flat-square)](https://github.com/iamgrodrigues/peoplemanager-api/network/members)
+[![Contributors](https://img.shields.io/github/contributors/iamgrodrigues/peoplemanager-api?color=6e40c9&style=flat-square)](https://github.com/iamgrodrigues/peoplemanager-api/graphs/contributors)
 
 > A Rest API that helps you to manage people register :rocket:
 
