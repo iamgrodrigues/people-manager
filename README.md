@@ -31,7 +31,7 @@
 - UPDATE 
 - DELETE 
 
-Sample Valid JSON Request Bodys
+Sample Valid JSON Request Body
 
 Create -> ```/api/v1/people```
 
